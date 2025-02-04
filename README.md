@@ -10,3 +10,4 @@ O **LocalTED** é uma aplicação que conecta usuários com estabelecimentos loc
 # Tecnologias Utilizadas
 - **Backend**: Fastify, Prisma, SQLite
 - **Frontend**: React, Vite, TailwindCSS
+- **Linguagem**: TypeScript
