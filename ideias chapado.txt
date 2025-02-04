@@ -1,2 +1,0 @@
-no layout home da aplicação terá um destaque de lojas que pagaram Super Atenção, gerenciado por uma fila, mostra conforme a ordem da demanda.
-depois fazer a lógica da data de nascimento
