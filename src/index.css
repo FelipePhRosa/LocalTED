@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes gradientTransition {
+    0% {
+      background-image: radial-gradient(circle at top right, #22e4a6 0%, black 40%);
+    }
+    100% {
+      background-image: radial-gradient(circle at top left, #22e4a6 0%, black 40%);
+    }
+  }
+
+  .button {
+    width: 100%;
+    background-image: radial-gradient(circle at top right, #22e4a6 0%, black 40%);
+    transition: all 0.5s ease-in-out;
+  }
+
+  .button:hover {
+    animation: gradientTransition 0.5s forwards;
+  }

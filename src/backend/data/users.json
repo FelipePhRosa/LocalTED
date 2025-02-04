@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 753,
+      "username": "oExterminador",
+      "first_name": "Felipe Rosa",
+      "last_name": "Pinho",
+      "name": "Felipe Rosa Pinho",
+      "email": "lipejunior@live.com",
+      "phone": "321321321",
+      "password": "321312321",
+      "age": 21
+    },
+    {
+      "id": 754,
+      "username": "VitorDittgen",
+      "first_name": "Vitor",
+      "last_name": "Dittgen",
+      "name": "Vitor Dittgen",
+      "email": "tuamae",
+      "phone": "312321312",
+      "password": "Lolzinho1@",
+      "age": 23
+    }
+  ],
+  "lastId": 754
+}
