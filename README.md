@@ -1,8 +1,11 @@
-# React + Vite
+LocalTED
+O LocalTED é uma aplicação que conecta usuários com estabelecimentos locais, permitindo que eles encontrem serviços, comércios e outros tipos de negócios em sua área. Através de uma interface simples, os usuários podem visualizar informações detalhadas, como nome, endereço, e contato dos estabelecimentos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Funcionalidades
+Cadastro de usuários: Permite que os usuários se cadastrem na plataforma.
+Listagem de estabelecimentos: Usuários podem explorar estabelecimentos locais, com informações detalhadas.
+Filtragem de estabelecimentos: Facilita a busca por categorias ou proximidade.
+Interface intuitiva: Fácil navegação para buscar e visualizar comércios e serviços.
+Tecnologias Utilizadas
+Backend: Fastify, Prisma, SQLite
+Frontend: React, Vite, TailwindCSS
