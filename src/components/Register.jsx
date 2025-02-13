@@ -30,6 +30,11 @@ const Register = () => {
                                 />
                                 <input
                                     type="text"
+                                    placeholder='Sobrenome'
+                                    className={`placeholder:font-sans placeholder:text-gray-300 bg-transparent border-b-2 border-gray-300 shadow-lg p-2 outline-none w-full transition-all duration-300 ${isRegister ? 'opacity-100 h-auto' : 'opacity-0 h-0 hidden'}`}
+                                />
+                                <input
+                                    type="text"
                                     placeholder='Email'
                                     className='placeholder:font-sans placeholder:text-gray-300 w-full bg-transparent border-b-2 border-gray-300 shadow-lg p-2 mb-4 outline-none'
                                 />

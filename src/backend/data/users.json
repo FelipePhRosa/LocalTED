@@ -21,7 +21,18 @@
       "phone": "312321312",
       "password": "Lolzinho1@",
       "age": 23
+    },
+    {
+      "id": 755,
+      "username": "thierry vergara",
+      "first_name": "thierry",
+      "last_name": "stein",
+      "name": "thierry stein",
+      "email": "thierrystein013",
+      "phone": "321895421",
+      "password": "renanythier",
+      "age": 31
     }
   ],
-  "lastId": 754
+  "lastId": 755
 }
