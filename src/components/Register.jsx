@@ -15,7 +15,7 @@ const Register = () => {
 
     return (
         <>
-            <div className="bg-[url('.. /assets/office-1.jpg')] bg-cover bg-center">
+            <div className="bg-[url('../assets/office-1.jpg')] bg-cover bg-center">
                 <div className='flex justify-center items-center mx-auto min-h-[80vh] py-10'>
                     <div className={`w-full max-w-md bg-black/30 backdrop-blur-sm border border-gray-300 p-10 rounded-lg shadow-lg relative transition-all duration-300 ease-in-out ${isAnimating ? 'opacity-0 scale-95' : 'opacity-100 scale-100'}`}>
                         <h2 className={`text-2xl font-bold mb-8 text-left text-gray-300 transition-all duration-300 ${isAnimating ? '-translate-x-10 opacity-0' : 'translate-x-0 opacity-100'}`}>
